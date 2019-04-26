@@ -1,5 +1,6 @@
-# Solutions to Quantum Information Theory, 2nd Edition, by Mark M. Wilde
-Contains solutions to selected exercises in Quantum Information Theory by Mark Wilde
+# Solutions to Wilde QIT book
+
+A still-expanding solution manual for Quantum Information Theory, 2nd Edition, by Mark M. Wilde
 
 Currently available solutions:
 
